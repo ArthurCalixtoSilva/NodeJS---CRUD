@@ -1,0 +1,13 @@
+{
+    "git.ignoreMissingGitWarning": true,
+    "editor.fontSize": 16,
+    "explorer.confirmDelete": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "window.zoomLevel": 0,
+    "workbench.iconTheme": "vscode-icons",
+    "editor.renderLineHighlight": "gutter",
+    "terminal.integrated.fontSize": 20,
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "editor.parameterHints.enabled": false,
+    "breadcrumbs.enabled": true,
+}
