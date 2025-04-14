@@ -27,6 +27,11 @@ O sistema permite:
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurCalixtoSilva&layout=compact)
+
+
+---
+
 ## 📁 Como executar o projeto
 
 1. Clone este repositório:
