@@ -25,9 +25,7 @@ O sistema permite:
 - ✏️ Editar um registro existente (PUT)
 - 🗑️ Deletar um registro (DELETE)
 
----
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurCalixtoSilva&layout=compact)
 
 
 
